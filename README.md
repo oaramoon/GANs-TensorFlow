@@ -1,4 +1,4 @@
 # GANsWithTensorFlow
 Implementing vanilla GAN. conditional GAN, etc in TensorFlow 
 
-![myfile](https://user-images.githubusercontent.com/52455330/139071980-91302a8a-37b1-4196-803e-f91b1de2ee5b.gif)
+![myfile](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.activestate.com%2Fblog%2Fhow-to-build-a-generative-adversarial-network-gan%2F&psig=AOvVaw3OyrI_tJ3sERwNFLitT9dY&ust=1650199030506000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCICSvsvMmPcCFQAAAAAdAAAAABAD)
